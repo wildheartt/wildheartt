@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wildheartt  
+- 👀 I’m interested in software development, design, and exploring new technologies.  
+- 🌱 I’m currently learning Go, JavaScript, TypeScript and modern web frameworks.  
+- 💞️ I’m looking to collaborate on open-source projects and knowledge sharing.  
+- 📫 How to reach me: via GitHub or email at kraskoila@gmail.com
+- ⚡ Fun fact: I'm an early bird coder—my best ideas often come at dawn, fueled by a strong cup of coffee!
