@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wildheartt  
+- 👋🏻 Hi, I’m @wildheartt  
 - 👀 I’m interested in software development, design, and exploring new technologies.  
 - 🌱 I’m currently learning Go, JavaScript, TypeScript and modern web frameworks.  
-- 💞️ I’m looking to collaborate on open-source projects and knowledge sharing.  
+- 🙃 I’m looking to collaborate on open-source projects and knowledge sharing.  
